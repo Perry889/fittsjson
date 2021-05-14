@@ -1,0 +1,7 @@
+{
+  "target_size": 0.02,
+  "newtarget_ntrials" : 5,
+  "task_area": 0.2,
+  "target_y_coordinate": -0.08,
+  "start_point_y_coordinate": -.28
+}
